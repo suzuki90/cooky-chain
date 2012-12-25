@@ -395,8 +395,7 @@ CookyChain.try(function(){
 });
 ```
 
-Exampleのような場合は[to](#to)でこと足りるでしょう。基本的には[to](#to)の使用してください。  
-delegateが使用されるケースとして、同一next内でtoを実行した後に、そのtoに関係なくnextに進みたい場合が考えられます。
+Exampleのような場合は[to](#to)でこと足りるでしょう。基本的には[to](#to)を使用してください。  
 
 <a name="foreach" />
 ### foreach()
