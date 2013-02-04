@@ -3,7 +3,7 @@
     "description": "Like synchronization how to write library in node.js",
     "main": "./lib/cooky-chain.js",
     "author": "suzuki90",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "repository" : {
         "type" : "git",
         "url" : "https://github.com/suzuki90/cooky-chain.git"
